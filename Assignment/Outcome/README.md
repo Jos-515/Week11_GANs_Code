@@ -1,0 +1,1 @@
+For this series of photographs I wanted to explore how the generative model would render background patterns arpund the cat. It was interesting that it automatically assumed anything drawn was an extension of the cat. I chose simple patterns, often used in zentangle which I did as a child for mindfullness. 
